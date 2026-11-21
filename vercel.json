@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/CodePaste.exe",
+      "destination": "https://github.com/Spidy0417/rmk/releases/latest/download/CodePaste.exe",
+      "permanent": false
+    }
+  ]
+}
